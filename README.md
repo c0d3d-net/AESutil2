@@ -4,5 +4,5 @@ AESutil 2 - Mac terminal tool to encrypt/decrypt files with password or keyfile 
 ## Tools:
 ```
 aesutil - Encrypt/Decrypt files.
-aesutil_keygen - Generate Passwords or use your own and save as keyfile to use with aesutil.
+aesutil_keygen - Generate Passwords or use your own and save as keyfile for use with aesutil.
 ```
